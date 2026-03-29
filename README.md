@@ -34,7 +34,7 @@ How can AI be used to analyze customer reviews and extract useful insights for b
 
 ### 5. Evaluation
 - Metric used: Accuracy score
-- 
+  
 ## Results
 - Model Accuracy: **~0.77**
 - The model correctly classifies most customer reviews
